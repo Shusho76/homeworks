@@ -1,0 +1,25 @@
+{
+    "staff": [
+        {
+            "name": "Artak",
+            "surname": "Saakyan",
+            "age": 39,
+            "profession": "economist",
+            "married": true
+        },
+        {
+            "name": "Anahitt",
+            "surname": "Petrosyan",
+            "age": 35,
+            "profession": "programmer",
+            "married": false
+        },
+        {
+            "name": "Karen",
+            "surname": "Mimasyan",
+            "age": 28,
+            "profession": "programmer",
+            "married": false
+        }
+    ]
+}
